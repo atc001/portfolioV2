@@ -96,7 +96,7 @@ main span {
 #image_2 {
 	min-width: 790px;
 	margin-left: 0; 
-	width: 51%;
+	width: 50%;
 	height: 500px;
 	background-image: url("../Img/Competence.jpg");
 	background-position: top;
@@ -166,7 +166,7 @@ main span {
 }
 #image_4 {
 	min-width: 790px;
-	width: 51.6%;
+	width: 50%;
 	height: 500px;
 	background-image: url("../Img/Hobbie.jpg");
 	background-position: center center;
