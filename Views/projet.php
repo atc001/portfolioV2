@@ -43,14 +43,14 @@ $content = "
         </div>
         <h1>Java Script</h1>
         <div class='arrow'>
-            <div class='arrow-status little'>
-                5%
+            <div class='arrow-status tier'>
+                30%
             </div>
         </div>
         <h1>JQuerry</h1>
         <div class='arrow'>
-            <div class='arrow-status nul'>
-                0%
+            <div class='arrow-status tier'>
+                30%
             </div>
         </div>
 
