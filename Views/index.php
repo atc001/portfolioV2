@@ -29,7 +29,7 @@ $content = "
 					<h4 class='nomargin'>Projet à venir</h4>
 				</div>
 				<div id='texte_3'>
-					<p class='nomargin'>J'ai pour but de finir ma formation préparatoire au developpement de site web et d'application mobile, afin de pouvoir accéder à la formation FullStack. Cette formation prépare, sur 2 ans en alternance, la conception entière d'un site web. En effet que ce soit niveau design, animation et contenu, tout est travaillé.</p>
+					<p class='nomargin'>J'ai pour but de finir ma formation préparatoire au développement de site web et d'application mobile, afin de pouvoir accéder à la formation FullStack. Cette formation prépare, sur 2 ans en alternance, la conception entière d'un site web. En effet que ce soit niveau design, animation et contenu, tout est travaillé.</p>
 				</div>
 			</div>
 			<div id='hobbie'>

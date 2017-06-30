@@ -9,6 +9,11 @@ $(document).ready(function() {
     createSlider();
     render();
 
+    function clickImg() {
+        
+        debugger;
+    }
+
     function left() {
         
         var prevImage = $('#selected').prev()[0];
@@ -56,8 +61,8 @@ $(document).ready(function() {
 
         
         sliderHtml += "<div id='button' style='display:flex;justify-content:space-between;position:absolute;top:300px;width:" + width + "px'>"
-        sliderHtml += "<button style='color:white;background-color:transparent;border:none;font-size:50px;' data-action='left'><</button>";
-        sliderHtml += "<button style='color:white;background-color:transparent;border:none;font-size:50px;' data-action='right'>></button>";
+        sliderHtml += "<button style='color:white;background-color:transparent;border:none;font-size:50px;cursor:pointer;' data-action='left'><</button>";
+        sliderHtml += "<button style='color:white;background-color:transparent;border:none;font-size:50px;cursor:pointer;' data-action='right'>></button>";
         sliderHtml += "</div>"
 
         $("body").on('click', "button[data-action='left']", left);

@@ -18,15 +18,25 @@ header {
 	z-index: 100;
 }
 header ul {
-	padding-right: 15px;
 	list-style: none;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
 	align-items: center;
+	height: 100%;
 }
 header ul li {
-	padding-left: 15px;
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+}
+header ul li:hover {
+	-moz-box-shadow: inset 1px 1px 5px 0px #656565;
+	-webkit-box-shadow: inset 1px 1px 5px 0px #656565;
+	-o-box-shadow: inset 1px 1px 5px 0px #656565;
+	box-shadow: inset 1px 1px 5px 0px #656565;
 }
 header ul li a {
 	text-decoration: none;
