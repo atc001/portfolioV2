@@ -38,7 +38,7 @@ $content = "
 				</div>
 				<div id='texte_4'>
 					<p class='nomargin'>Passionné de montagne et d'adrénaline, je vais régulièrement dans les Alpes pour pratiquer toutes sortes d'activités. En effet, l'hiver je pratique le snowboard et je profite du beau temps pour faire des randonnées pédestres ou à vélo.</p>
-					<p class='nomargin'>J'aime également des activité plus tranquilles comme regarder des films/séries, naviguer sur internet ou encore approfondir mes connaissances en informatique.</p>
+					<p class='nomargin'>J'aime également des activités plus tranquilles comme regarder des films/séries, naviguer sur internet ou encore approfondir mes connaissances en informatique.</p>
 				</div>
 			</div>
 			
