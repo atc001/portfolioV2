@@ -219,7 +219,7 @@ main span {
 }
 #main_contact {
 	height: 1000px;
-	background-image : url("../img/montagne.jpg");
+	background-image : url("../Img/montagne.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;  
 	display: flex;

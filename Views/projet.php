@@ -10,7 +10,7 @@ $content = "
             <img src='Img/librairie.png'>
         </div>
     </div>
-    <p>Petits projets qui m'ont permit de découvrir et progresser dans le monde du développement tout en m'amusant. Voici un lien vers mon Github ou j'entrepose tout mes codes :</p>
+    <p>Petits projets qui m'ont permis de découvrir et progresser dans le monde du développement tout en m'amusant. Voici un lien vers mon Github ou j'entrepose tous mes codes :</p>
     <p><a href='https://github.com/atc001' target='_blank'>GitHub</a></p>
     <h4>Evolution de mes compétences</h4>
     <section>
