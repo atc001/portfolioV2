@@ -1,4 +1,3 @@
 <?php
 
-echo "Pas sur la bonne page";
-header('Location:Views/index.php');
+require_once('Views/index.php');
